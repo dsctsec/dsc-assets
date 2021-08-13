@@ -1,8 +1,11 @@
 # DSC TSEC Assets
 
-Assets, images and content for DSC TSEC.
+**Assets, images and content for DSC TSEC.**
 
 ![](DSC_Thadomal_Shahani_Engineering_College_Light_Vertical-Logo.png)
+
+</br>
+</br>
 
 Script used for renaming the files.
 
