@@ -2,7 +2,8 @@
 
 **Assets, images and content for DSC TSEC.**
 
-![](DSC_Thadomal_Shahani_Engineering_College_Light_Vertical-Logo.png)
+<!-- ![](GDSC_Thadomal_Shahani_Engineering_College_vertical_color.png) -->
+![](DSC_TSEC_Banner.png)
 
 </br>
 </br>
