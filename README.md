@@ -2,7 +2,6 @@
 
 **Assets, images and content for DSC TSEC.**
 
-<!-- ![](GDSC_Thadomal_Shahani_Engineering_College_vertical_color.png) -->
 ![](DSC_TSEC_Banner.png)
 
 </br>
@@ -13,3 +12,11 @@ Script used for renaming the files.
 ```bash
 for file in *; do mv "$file" `echo $file | tr ' ' '_'`; done
 ```
+
+## References
+
+A huge thank you to:
+
+- [dscnsec/logo-generator](https://github.com/dscnsec/logo-generator)
+- [mbaraa/dsc_logo_generator](https://github.com/mbaraa/dsc_logo_generator)
+- [abhinavsri360/GDSC-Lead-Map](https://github.com/abhinavsri360/GDSC-Lead-Map)
