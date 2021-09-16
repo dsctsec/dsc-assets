@@ -2,12 +2,12 @@
 
 **Assets, images and content for DSC TSEC.**
 
-</br>
+<br>
 
 <p align="center"><img width="20%" src = "gdsc-logo-animation.gif" styles></p>
 <p align="center"><img width ="45%" src="DSC_LOGOS/gdsc.png"></p>
 
-</br>
+<br><br>
 
 Script used for renaming the files.
 
